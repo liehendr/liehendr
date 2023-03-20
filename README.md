@@ -1,6 +1,8 @@
 Hi, I’m @liehendr
 
-Nice to meet you.
+I am a lawyer with a number of IT experiences.
+I love good challenges and problem solving opportunities.
+My specialization is in civil law, contract law, legal research, and contract drafting.
 
 # Education
 
@@ -42,7 +44,7 @@ Nice to meet you.
   - Have experiences with HTML, CSS, PHP, and exposure to C++.
 - Websites:
   - [Xenomancy](https://xenomancy.id)
-  - [Online Resume](https://hendrik.liecorp.id) (I am a lawyer BTW)
+  - [Online Resume](https://hendrik.liecorp.id)
 - Computer Setup:
   | Label       | Values |
   | :---------- | :------------------ |
