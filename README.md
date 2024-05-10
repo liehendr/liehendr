@@ -10,11 +10,9 @@ My specialization is in civil law, contract law, legal research, and contract dr
 
 | Surabaya, ID | UNIVERSITAS AIRLANGGA |
 | -----------: | :----------------------------------------------- |
-| March 2021   | **Magister Kenotariatan**, GPA: 3.30 |
-|| **Thesis:** Kesepakatan dalam Perjanjian Perkawinan pada Perkawinan Internasional dan Akibat Hukumnya Terhadap Harta Bersama Berupa Kepemilikan Hak Atas Tanah |
+| March 2021   | **Magister Kenotariatan**, GPA: 3.30 <br> **Thesis:** Kesepakatan dalam Perjanjian Perkawinan pada Perkawinan Internasional dan Akibat Hukumnya Terhadap Harta Bersama Berupa Kepemilikan Hak Atas Tanah |
 | Surabaya, ID | **UNIVERSITAS SURABAYA** |
-| August 2017 | **Sarjana Hukum**, GPA: 3.201 |
-|| **Final Essay:** Penyuapan Kepala Daerah oleh PT. HIP ditinjau dari Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi sebagaimana diubah dengan Undang-Undang Nomor 20 Tahun 2001 |
+| August 2017 | **Sarjana Hukum**, GPA: 3.201 <br> **Final Essay:** Penyuapan Kepala Daerah oleh PT. HIP ditinjau dari Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi sebagaimana diubah dengan Undang-Undang Nomor 20 Tahun 2001 |
 | Makassar, ID | **SMA KRISTEN YHS MAKASSAR** | Makassar, ID |
 | 2013 | **Science Program** |
 
