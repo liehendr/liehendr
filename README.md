@@ -4,29 +4,23 @@ I am a lawyer with a number of IT experiences.
 I love good challenges and problem solving opportunities.
 My specialization is in civil law, contract law, legal research, and contract drafting.
 
-::: content-table
-
 ## Education
 
-| Surabaya, ID | UNIVERSITAS AIRLANGGA |
-| -----------: | :----------------------------------------------- |
-| March 2021   | **Magister Kenotariatan**, GPA: 3.30 |
-|| **Thesis:** Kesepakatan dalam Perjanjian Perkawinan pada Perkawinan Internasional dan Akibat Hukumnya Terhadap Harta Bersama Berupa Kepemilikan Hak Atas Tanah |
-| Surabaya, ID | **UNIVERSITAS SURABAYA** |
-| August 2017 | **Sarjana Hukum**, GPA: 3.201 |
-|| **Final Essay:** Penyuapan Kepala Daerah oleh PT. HIP ditinjau dari Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi sebagaimana diubah dengan Undang-Undang Nomor 20 Tahun 2001 |
-| Makassar, ID | **SMA KRISTEN YHS MAKASSAR** | Makassar, ID |
-| 2013 | **Science Program** |
+- Magister Kenotariatan, graduated on 2021 from Universitas Airlangga. Thesis: Kesepakatan dalam Perjanjian Perkawinan pada Perkawinan Internasional dan Akibat Hukumnya Terhadap Harta Bersama Berupa Kepemilikan Hak Atas Tanah
+- Sarjana Ilmu Hukum, graduated on 2017 from Universitas Surabaya. Thesis: Penyuapan Kepala Daerah oleh PT. HIP ditinjau dari Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi sebagaimana diubah dengan Undang-Undang Nomor 20 Tahun 2001
 
 ## Work Experiences
 
-| Surabaya, ID | Kantor Hukum MST & Associates |
-| ----------: | :----------------------------------------------- |
-|| March 2019 to October 2021 | **Lawyer Internship** |
-|| - Legal researches and regulation lookouts on criminal laws and civil laws. |
-|| - Contract drafting for corporate clients and individual clients |
-|| - Document reviews for corporate clients, trial documents, and contracts |
-|| - Participating in strategic discussion and technical brainstorming on approaching a case |
+- Associate at MMP Law (2022-now). Work description includes:
+  - Attending court hearings and proceedings.
+  - Legal researches and contract draftings, primarily for corporate clients.
+  - Participating in legal audits and document reviews.
+
+- Internship at Kantor Hukum MST & Associates (2019-2021). Contributes primarily on:
+  - Legal researches and regulation lookouts on criminal laws and civil laws.
+  - Contract drafting for corporate clients and individual clients.
+  - Document reviews for corporate clients, trial documents, and contracts.
+  - Participating in strategic discussion and technical brainstorming on approaching a case.
 
 ## Skills and Interests
 
@@ -41,14 +35,14 @@ My specialization is in civil law, contract law, legal research, and contract dr
 
   - Able to operate Linux operating system, Android OS, and Windows (from XP to 10).
   - Able to operate office suites such as Microsoft Office and Libre Office.
-  - Comfortable working with `git`, `pandoc`, `rsync`, and `ssh`.
+  - Comfortable working with command line tools, including but not limited with `git`, `pandoc`, and `rsync`.
   - Can fluently compose bash scripts, and is familiar with markdown.
-  - Have experiences with HTML, CSS, PHP, and exposure to C++.
+  - Have experiences with HTML, CSS, Javascript, and PHP.
 
 - Websites:
 
   - [Xenomancy](https://xenomancy.id)
-  - [Online Resume](https://hendrik.liecorp.id)
+  - [Personal website](https://liecorp.id)
 
 - Computer Setup:
 
@@ -57,13 +51,11 @@ My specialization is in civil law, contract law, legal research, and contract dr
   |OS           | Arch Linux |
   |DE           | i3wm |
   |Terminal     | Kitty |
-  |Editor       | nano, vim |
-  |Code Editor  | VSCode, Gedit, Geany |
-  |Storage      | Full disk encryption (with encrypted `/boot` and LVM on LUKS) |
-  |Mail (local) | Postfix |
-  |dotfiles management | Bare git and alias implemented as a helper script: [xadf](https://github.com/liehendr/xadf) |
-
-:::
+  |Editor       | neovim |
+  |Code Editor  | VSCode, Zed |
+  |Storage      | Full disk encryption (`systemd-boot` with Secure Boot and LVM on LUKS) |
+  |Dotfiles management | Bare git and alias implemented as a helper script: [xadf](https://gitlab.com/xadfsh/xadf) |
+  |System config management | Synchronize config files with rsync-based [xast](https://gitlab.com/xadfsh/xast) |
 
 <!---
 liehendr/liehendr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
